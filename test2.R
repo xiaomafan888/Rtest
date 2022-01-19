@@ -1,0 +1,5 @@
+.libPaths()
+library()
+search()
+install.packages("XML", repos = "https://mirrors.ustc.edu.cn/CRAN/")
+library("XML")
